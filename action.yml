@@ -1,3 +1,4 @@
+---
 name: RISU execution
 description: This action runs RISU against repo and deploys to GHpages
 
